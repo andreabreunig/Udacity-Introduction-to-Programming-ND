@@ -1,0 +1,43 @@
+/* add your CSS here */
+
+#card {
+  width: 326px;
+  display:flex;
+  flex-wrap:wrap;
+  border: 1px solid gray;
+  margin: auto;
+  box-shadow: 5px 5px lightgrey;
+}
+
+h3 {
+  margin-left: 13px;
+  margin-bottom: 7px
+}
+
+img {
+  margin: 13px;
+  border: 1px solid gray;
+}
+
+.textbox {
+  margin-left: 13px;
+  width: 274px;
+  display:flex;
+  flex-wrap:wrap;
+  border: 1px solid gray;
+  font-size: 13px;
+  padding: 13px;
+  margin-bottom: 13px;
+}
+
+#slogan {margin-top: 0}
+
+ul {
+  margin:0;
+  list-style: none;
+  padding-left: 0;
+}
+
+.label {font-weight: bold}
+
+.description {margin-bottom: 0}
